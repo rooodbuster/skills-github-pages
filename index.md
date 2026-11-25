@@ -1,6 +1,6 @@
 # Welcome to My Homepage!
 
-Hi! My name is [Your Name], and I am a student at Ngee Ann Polytechnic.
+title: Hi! My name is [Your Name], and I am a student at Ngee Ann Polytechnic.
 
 ## About Me
 I am currently studying at Ngee Ann Polytechnic. I enjoy learning new skills, exploring technology and working on projects with my classmates.
